@@ -1,13 +1,7 @@
-# project-2023
+parity game
 
-2023/2/14 parity_game_graph start
+A parity game is an infinite game played between two players on a directed graph and is used to study problems in areas such as system validation and model checking.
 
-class Vertex:
-    player,  priority, id, poritTO(List)
-    Cannot be changed.()
-    TEST (v1 = Vertex(0,1,[1,2,3,4])
-print (v1.getPlayer())
-print (v1.getPriority())
-print (v1.winerFor())
-print v1.checkEdgeRange(5)
-print v1.checkEdgeRange(3))
+The project implements a data structure for parity games and implements a solution to Zielonka's algorithm and an alternative solution based on the algorithm to optimize the computation time, with the optimized solution having a more pronounced advantage in solving large graphs.
+
+Also this project includes the generation of different conditional directed graphs in order to validate the performance of the algorithm.
