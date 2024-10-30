@@ -1,4 +1,5 @@
 parity game
+https://en.wikipedia.org/wiki/Parity_game
 
 A parity game is an infinite game played between two players on a directed graph and is used to study problems in areas such as system validation and model checking.
 
